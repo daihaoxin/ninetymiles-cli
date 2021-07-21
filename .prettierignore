@@ -1,0 +1,22 @@
+# 总是忽略 /node_modules/*
+**/*.svg
+**/*.yml
+*.iml
+.DS_Store
+*.sh
+
+.idea/
+src/action/
+build/
+dist/
+_site/
+coverage/
+.vscode/
+bower_components/
+
+CNAME
+LICENSE
+package-lock.json
+yarn.lock
+yarn-error.log
+
